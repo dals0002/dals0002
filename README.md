@@ -21,7 +21,7 @@ Mi capacidad para resolver problemas y mi enfoque meticuloso en el soporte técn
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Daniel%Lugo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Contribuciones](https://github-contributor-stats.vercel.app/api?username=Daniel%20Lugo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
