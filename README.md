@@ -27,7 +27,7 @@ Mi capacidad para resolver problemas y mi enfoque meticuloso en el soporte técn
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Daniel Lugo&icon=0&color=11)](https://visitcount.itsvg.in)
+![Visitas](https://visitcount.itsvg.in/api?id=Daniel%20Lugo&icon=0&color=11)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dals0001@yahoo.es) 
